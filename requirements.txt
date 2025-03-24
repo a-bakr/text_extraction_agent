@@ -1,8 +1,8 @@
-streamlit
-Pillow
-langchain
-langchain-openai
-langgraph
-python-dotenv
-IPython
-langchain_google_genai
+streamlit==1.43.2
+Pillow>=10.2.0
+langchain==0.3.20
+langchain-openai==0.3.8
+langgraph==0.3.11
+python-dotenv==1.0.1
+IPython>=8.0.0
+langchain-google-genai==2.1.0
